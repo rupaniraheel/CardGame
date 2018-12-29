@@ -1,0 +1,11 @@
+body{
+    background-color:#ccaacc;
+    font-family:sans-serif;
+}
+h1{
+    color:white;
+}
+#P1Score, #P2Score{color:white;font-size:20px; margin-top:10px;}
+#p1Cards,#p2Cards{color:orange; font-size:18px; background-color:gray; margin-top:10px; }
+#NextTurn{font-size:24px;color:white; background-color: BLACK; width:200px;text-align: center;margin-top:10px;}
+#winner{font-size: 30px;; color:white;margin-top:20px;}
